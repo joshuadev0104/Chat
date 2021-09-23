@@ -1,5 +1,4 @@
 ## React Chat App
-![Screencast](https://github.com/tonyspiro/react-chat-app/blob/master/screencast.gif)
 
 This is an example of a basic real time chat app using React, Socket.io and [Cosmic JS](https://cosmicjs.com).  This example consists of the following:
 
@@ -8,11 +7,6 @@ This is an example of a basic real time chat app using React, Socket.io and [Cos
 3. [Webpack](https://webpack.github.io/) for bundling
 4. [Socket.io](http://socket.io/) for real-time communication
 5. [Cosmic JS](https://cosmicjs.com) for saving and returning messages from a cloud-hosted API
-
-The following dev tools are used:
-
-1. [ESLint](http://eslint.org/) to make sure our code is consistent
-2. [React Hot Loader](https://github.com/gaearon/react-hot-loader) for instant updates on save
 
 ### Install
 Run the following commands to install the app:
